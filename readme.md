@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/Ceji-B/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo" alt="cat" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">AD-Task-2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A php marketing website well somewhat.
 </div>
 
 <br />
@@ -23,7 +23,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=Ceji-B/AD-Task-2)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/@018ee9bf-cb35-4abb-a464-ff42b9518a77/projects/qhgimhpygx?start=2025-05-18&end=2025-05-24)]
 
 ---
 
@@ -61,15 +61,15 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-Description of the project in details.
+For this tasked I focused more on the backend of the website rather than the design and the look of the website but of course i still made the website visually appealing even though it is quite simple. The goal of the website is to utilize the given requirement in promoting a product. And an about the company page for the a short background about the idea of the company.
 
 ### Key Components
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- 2 page
+- Card hero
 
 ### Technology
 
