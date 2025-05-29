@@ -1,0 +1,10 @@
+{
+    "type": "project",
+    "authors": [
+        {
+            "name": "banaag",
+            "email": "christianebanaag@gmail.com"
+        }
+    ],
+    "require": {}
+}

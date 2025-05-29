@@ -1,5 +1,7 @@
 <?php
 
+require_once __DIR__ . '/vendor/autoload.php';
+
 include_once 'components/header.component.php';
 include_once 'utils/Product.utils.php';
 
