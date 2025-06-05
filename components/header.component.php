@@ -5,6 +5,6 @@
     </div>
     <nav class="header-right">
         <a href="../index.php" class="nav-button">Home</a>
-        <a href="../page/index.php" class="nav-button">About</a>
+        <a href="../AD-Task-2/page/index.php" class="nav-button">About</a>
     </nav>
 </header>
