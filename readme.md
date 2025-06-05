@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Ceji-B/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/logo" alt="cat" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="cat" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">AD-Task-2</h3>
@@ -23,7 +23,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=Ceji-B/AD-Task-2)
 
-[![wakatime](https://wakatime.com/@018ee9bf-cb35-4abb-a464-ff42b9518a77/projects/qhgimhpygx?start=2025-05-18&end=2025-05-24)]
+[![wakatime](https://wakatime.com/badge/user/018ee9bf-cb35-4abb-a464-ff42b9518a77/project/a3c0f9c7-60c3-45b1-b4ac-afdf21860a85.svg)]
 
 ---
 
