@@ -72,7 +72,7 @@ function renderSpecs($specs) {
 <?php include_once '../components/footer.component.php'; ?>
 <script src="../page/assets/js/script.js"></script>
 <script>
-// Animate About section on scroll
+
 document.addEventListener("DOMContentLoaded", () => {
     const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => {
