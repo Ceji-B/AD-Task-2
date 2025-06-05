@@ -1,8 +1,14 @@
 {
+    "name": "cj/ad-task-2",
     "type": "project",
+    "autoload": {
+        "psr-4": {
+            "cj\\AdTask2\\": "src/"
+        }
+    },
     "authors": [
         {
-            "name": "banaag",
+            "name": "Ceji-B",
             "email": "christianebanaag@gmail.com"
         }
     ],
